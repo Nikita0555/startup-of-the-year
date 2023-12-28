@@ -1,0 +1,26 @@
+*{
+    text-align: right;
+}
+body{
+    background-image: url(https://wp-mktg.prod.getty1.net/istockcontentredesign/wp-content/uploads/sites/5/2021/03/2021_iStock_LatestBGTrends_Hero.jpg.jpeg );
+    background-size: cover;
+}
+h2{
+    color: #f10d0d;
+    text-align: center;
+    border:5px solid black;
+    cursor:pointer;
+}
+p{
+  color: purple;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.webtext{
+    border:1px solid black;
+}
+#id1{
+    background-color:rgba(0, 0,255,0.2);
+}
